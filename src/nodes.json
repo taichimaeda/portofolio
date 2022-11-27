@@ -1,0 +1,58 @@
+{
+    "name": "~",
+    "children": [
+        {
+            "name": "README.md",
+            "head": "-rw-r--r--  1 taichimaeda 733 Oct 25 23:53",
+            "body": "Hi, there!\nI am a Second Year Computing student at Imperial College London,\nMy interests are software engineering, algorithms and machine learning.\nFor more details, 'cd' into a directory and 'ls -l' or 'cat' its files!"
+        },
+        {
+            "name": "Projects",
+            "head": "drwxr-xr-x 29 taichimaeda 928 Nov 23 22:51",
+            "children": [
+                {
+                    "name": "Japanese Society Language Class Portal",
+                    "head": "-rw-r--r--  1 taichimaeda 5733 Oct 25 23:53",
+                    "link": "https://union.ic.ac.uk/osc/japsoc/"
+                },
+                {
+                    "name": "YacDoc - Yet Another C Document Parser",
+                    "head": "-rw-r--r--  1 taichimaeda 5733 Oct 25 23:53",
+                    "link": "https://github.com/taichimaeda/yacdoc"
+                }
+            ]
+        },
+        {
+            "name": "Publications",
+            "head": "drwxr-xr-x 10 taichimaeda 320 May 26 02:11",
+            "children": [
+                {
+                    "name": "Blog",
+                    "head": "-rw-r--r--  1 taichimaeda 733 Oct 25 23:53",
+                    "link": "https://taichi508.hatenablog.com/"
+                }
+            ]
+        },
+        {
+            "name": "Contacts",
+            "head": "drwxr-xr-x 12 taichimaeda 90  May 26 01:29",
+            "children": [
+                {
+                    "name": "Email",
+                    "head": "-rw-r--r--  1 taichimaeda 733 Oct 25 23:53",
+                    "link": "mailto:tm821@ic.ac.uk"
+                },
+                {
+                    "name": "LinkedIn",
+                    "head": "-rw-r--r--  1 taichimaeda 733 Oct 25 23:53",
+                    "link": "https://www.linkedin.com/in/taichi-maeda-b43348197/"
+                }
+            ]
+        },
+        {
+            "name": ".Social Media",
+            "head": "drwxr-xr-x  3 taichimaeda  96 Aug  7 01:37",
+            "children": []
+        }
+    ]
+}

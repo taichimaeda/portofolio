@@ -1,0 +1,21 @@
+{
+  "name": "taichimaeda.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "laravel-mix": "^6.0.18",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.38.0",
+    "sass-loader": "^12.1.0",
+    "ts-loader": "^9.4.1",
+    "typescript": "^4.9.3"
+  }
+}
